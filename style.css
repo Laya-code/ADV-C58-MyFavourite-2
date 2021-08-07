@@ -1,0 +1,75 @@
+.Profile{
+height:250px;
+width:250px;
+    border-radius: 150px;
+}
+body{
+  text-align:center;
+    background-image:linear-gradient(#A4E0C7, #F4E2BC);
+}
+
+h2{
+  font-size:50px;
+  color:#EB6E7D;
+}
+
+h1{
+  font-size:35px;
+  color:#6b3074;
+}
+p {
+  text-align:justify;
+  font-size:20px;
+    color:cadetblue;
+}
+
+    
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: aquamarine;
+}
+#book{
+    height:600px;
+    width: 900px;
+}
+#about{
+    color:#E1E8EC;
+    font-size: 20px;
+    
+}
+
+#para{
+    
+}
+li {
+  float:left;
+  
+
+}
+
+li a {
+  display: block;
+  padding: 8px;
+    background-color:#5f9595;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.WorkText{
+    color: cadetblue;
+    font-size: 30px;
+}
+
+h5{
+    color: blue;
+}
